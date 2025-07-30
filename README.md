@@ -1,4 +1,3 @@
-# s4097536-s3966848-a2
 Full Stack Development Assignment 2
 
 The first project is designed for candidates can apply to tutor and lab assistant, and the lecturers can select suitable candidates for the courses listed on the website.
